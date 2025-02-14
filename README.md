@@ -1,6 +1,6 @@
 # 💫 About Me:
-🚀 About Me:<br> 
-     <br>📚  Currently Learning: DevOps & Web Development<br><br>💻  Scripting & Programming: Python, Bash, JavaScript<br><br> 🛠️  Infrastructure as Code (IaC): Terraform, AWS CloudFormation<br><br> 🛠️ configuration management:  in Ansible.<br><br> 🔧  DevOps Lifecycle Tools: Git/GitHub, Docker, Maven, SonarQube, SonarQube Quality Gate,Trivy, Bash, Python, Kubernetes, Prometheus and Grafana. <br><br> ☁️  Passionate About: Cloud Computing, CI/CD, Security, and Automation<br><br> I enjoy experimenting with different tools and adapting to project needs, always striving for efficiency and innovation. Let’s connect and build something great! 🚀<br><br> 💬 Ask me about DevOps, Cloud & WebDev!
+🚀 About Me:
+     <br>📚  Currently Learning: DevOps & Web Development<br><br>💻  Scripting & Programming: Python, Bash, JavaScript<br><br> 🛠️  Infrastructure as Code (IaC): Terraform, AWS CloudFormation<br><br> 🛠️ configuration management:  in Ansible.<br><br> 🔧  DevOps Lifecycle Tools: Git/GitHub, Docker, Maven, SonarQube, SonarQube Quality Gate,Trivy, Bash, Python, Kubernetes, Prometheus and Grafana. <br><br> ☁️  Passionate About: Cloud Computing, CI/CD, Security, and Automation<br><br> I enjoy experimenting with different tools and adapting to project needs, always striving for efficiency and innovation. Let’s connect and build something great! 🚀
 
 
 ## 🌐 Socials:
